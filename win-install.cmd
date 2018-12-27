@@ -6,7 +6,7 @@ echo =====================================
 echo (c) Dave Parsons 2011-18
 echo.
 echo Set encoding parameters...
-chcp 850
+chcp 936
 
 net session >NUL 2>&1
 if %errorlevel% neq 0 (
